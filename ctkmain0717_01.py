@@ -12,7 +12,7 @@ import re
 
 # スクリプトのファイル名を取得
 file_name = os.path.basename(sys.argv[0])
-
+# test
 def process_clipboard_data(jancode, clipboard_data):
     lines = clipboard_data.split('\n')
     output_data = ""
