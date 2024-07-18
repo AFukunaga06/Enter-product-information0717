@@ -9,7 +9,7 @@ import pyperclip
 from collections import Counter
 import sys
 import re
-
+#testtest0718
 # スクリプトのファイル名を取得
 file_name = os.path.basename(sys.argv[0])
 
